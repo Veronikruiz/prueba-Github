@@ -1,0 +1,19 @@
+.header{ 
+    text-align:center;
+    height: 300px;
+    padding : 12px
+}
+.body{
+    background-color: darkblue;
+}
+.avatar{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.nombre-usuario{
+    font-size: 18px;
+margin-top: 14px;
+color:white
+text-align :center
+}
